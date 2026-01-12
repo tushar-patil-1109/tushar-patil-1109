@@ -1,6 +1,30 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tushar-patil-1109.tushar-patil-1109&"  />
+</div>
+
+###
+
+<h1 align="left">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Tushar Patil from India<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning DSA<br>- ⚡ In my free time I solve DSA problems</p>
 
 ###
 
@@ -17,30 +41,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="discord logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:tushar-patil-1109?theme=miku&padding=5&offset=1&scale=1&align=center&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<h1 align="left">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tushar-patil-1109.tushar-patil-1109&"  />
-</div>
-
-###
-
-<p align="left">I'm Tushar Patil from India<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning DSA<br>- ⚡ In my free time I solve DSA problems</p>
 
 ###
 
@@ -114,5 +114,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushar-patil-1109/tushar-patil-1109/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tushar-patil-1109/tushar-patil-1109/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
