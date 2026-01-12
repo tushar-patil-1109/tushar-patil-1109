@@ -44,6 +44,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/tushar-patil-1109/tushar-patil-1109/output/snake.svg" alt="Snake animation" />
 
 ###
