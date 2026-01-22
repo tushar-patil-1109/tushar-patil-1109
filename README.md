@@ -91,16 +91,11 @@
 
 ###
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&show_icons=true&theme=dracula&hide_border=false" height="180" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&show_icons=true&theme=dracula" height="180" />
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&layout=compact&theme=dracula&hide_border=false" height="150" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&layout=compact&theme=dracula" height="150" />
   <br/>
-
-  <img src="https://streak-stats.demolab.com?user=tushar-patil-1109&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=tushar-patil-1109&theme=dark&v=1" height="180" />
 </div>
 
 ###
