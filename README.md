@@ -100,8 +100,7 @@
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=tushar-patil-1109&theme=dark&hide_border=false" height="180"/>
-
+  <img src="https://streak-stats.demolab.com?user=tushar-patil-1109&theme=dark&hide_border=false" />
 </div>
 
 ###
