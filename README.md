@@ -20,18 +20,22 @@
 
 ###
 
+<h1 align="left">📫 Connect With Me</h1>
+
+###
+
 <div align="center">
   <a href="https://tbpatil0863@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="200" height="100" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/tushar-patil-1109x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="200" height="100" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/tushar_patil_119" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="200" height="100" alt="hackerrank logo"  />
   </a>
   <a href="https://www.instagram.com/tusharpatil_11?igsh=djJzdDZxYWdwc3dl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="200" height="100" alt="instagram logo"  />
   </a>
 </div>
 
@@ -41,7 +45,7 @@
 
 ###
 
-<p align="left">I'm Tushar Patil from Pune<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning DSA<br>- ⚡ In my free time I solve coding problems</p>
+<p align="left">👋 I’m Tushar Patil from Pune, India<br><br>💼 Java Developer with 1.5 years of professional experience<br>🧠 Strong knowledge of Core Java, OOP concepts, and SQL<br>⚙️ Experienced in backend development, debugging, and code optimization<br>📊 Familiar with Data Structures & Algorithms and problem-solving techniques<br>🛠️ Hands-on experience using Git & GitHub for version control<br>📚 Currently strengthening DSA and Advanced Java concepts<br>⚡ In my free time, I solve coding problems and work on improving code quality</p>
 
 ###
 
@@ -93,16 +97,30 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-patil-1109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  [<img src="https://streak-stats.demolab.com?user=tushar-patil-1109](https://streak-stats.demolab.com?user=tushar-patil-1109&theme=dracula
-)&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-patil-1109&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-patil-1109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tushar-patil-1109&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=tushar-patil-1109&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-patil-1109&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
