@@ -20,6 +20,14 @@
 
 ###
 
+<h1 align="left">👩‍💻  About Me</h1>
+
+###
+
+<p align="left">👋 I’m Tushar Patil from Pune, India<br><br>💼 Java Developer with 1.5 years of professional experience<br>🧠 Strong knowledge of Core Java, OOP concepts, and SQL<br>⚙️ Experienced in backend development, debugging, and code optimization<br>📊 Familiar with Data Structures & Algorithms and problem-solving techniques<br>🛠️ Hands-on experience using Git & GitHub for version control<br>📚 Currently strengthening DSA and Advanced Java concepts<br>⚡ In my free time, I solve coding problems and work on improving code quality</p>
+
+###
+
 <h1 align="left">📫 Connect With Me</h1>
 
 ###
@@ -38,14 +46,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="200" height="100" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="left">👩‍💻  About Me</h1>
-
-###
-
-<p align="left">👋 I’m Tushar Patil from Pune, India<br><br>💼 Java Developer with 1.5 years of professional experience<br>🧠 Strong knowledge of Core Java, OOP concepts, and SQL<br>⚙️ Experienced in backend development, debugging, and code optimization<br>📊 Familiar with Data Structures & Algorithms and problem-solving techniques<br>🛠️ Hands-on experience using Git & GitHub for version control<br>📚 Currently strengthening DSA and Advanced Java concepts<br>⚡ In my free time, I solve coding problems and work on improving code quality</p>
 
 ###
 
@@ -121,6 +121,12 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-patil-1109&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://lionvisionits.com/wp-content/uploads/2018/01/Thankyou.gif"  />
 </div>
 
 ###
