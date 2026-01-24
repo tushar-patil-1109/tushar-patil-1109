@@ -106,21 +106,16 @@
 ###
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
 
-###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false)
+
 </div>
-
-###
-
-<div align="center">
- ![](https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false)
-</div>
-
 ###
 
 <div align="center">
