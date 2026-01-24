@@ -4,18 +4,22 @@
 
 ###
 
-<h1 align="left">hey there 👋</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tushar-patil-1109.tushar-patil-1109&"  />
-</div>
+<h1 align="left">👋 Hi, Welcome To My GitHub Profile!</h1>
 
 ###
 
 <div align="center">
   <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<h1 align="left">👀 Profile Views</h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tushar-patil-1109.tushar-patil-1109&left_text=Visitors%20"  />
 </div>
 
 ###
@@ -49,8 +53,14 @@
 
 ###
 
+<h1 align="left">✍️ Random Dev Quote</h1>
+
+###
+
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"  />
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ###
@@ -91,22 +101,25 @@
 
 ###
 
-<h1 align="left">🔥   My Stats :</h1>
+<h1 align="left">📊 My Stats :</h1>
 
 ###
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false)
-
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
+###
+
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+</div>
+
+###
+
+<div align="center">
+ ![](https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false)
+</div>
 
 ###
 
@@ -116,10 +129,18 @@
 
 ###
 
+<h1 align="left">🏆 GitHub Trophies</h1>
+
+###
+
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=tushar-patil-1109&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
+<div align="center">
+  <img height="200" src="https://img.wattpad.com/745757acfa4788f587f73586be64cda77351cd4f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5335344633544773624b64506d413d3d2d313134373833333239322e313662326334373633326335353164653833333231303337383630302e676966"  />
 </div>
 
 ###
