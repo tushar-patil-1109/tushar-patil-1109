@@ -117,7 +117,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://lionvisionits.com/wp-content/uploads/2018/01/Thankyou.gif"  />
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ###
