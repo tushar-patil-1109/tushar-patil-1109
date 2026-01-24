@@ -98,7 +98,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-<br/>(https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ###
 
@@ -107,9 +106,9 @@
 </div>
 
 ###
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tushar-patil-1109&theme=highcontrast" alt="GitHub Streak" /></a>
-
+<div align = "center">
+  <img scr = "https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false" />
+</div>  
 ###
 
 <div align="center">
