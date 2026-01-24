@@ -108,11 +108,9 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&theme=radical&hide_border=false&layout=compact)
-
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&theme=radical&hide_border=false)
-
 <br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false)
