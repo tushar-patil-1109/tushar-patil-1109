@@ -107,10 +107,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tushar-patil-1109&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tushar-patil-1109&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ###
 
