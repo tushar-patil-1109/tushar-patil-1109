@@ -109,7 +109,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=tushar-patil-1109&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&theme=radical&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&theme=tokyonight)
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&theme=radical&hide_border=false)
