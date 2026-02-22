@@ -14,16 +14,16 @@
 
 ###
 
-<h1 align="left">👀 Profile Followers and Views</h1>
+<h1 align="left">👀 Profile Views and Followers </h1>
 
 ###
 
 <div align="center">
   
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tushar-patil-1109.tushar-patil-1109&left_text=Visitors%20"  />
+  
   <a href="https://www.github.com/tushar-patil-1109" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/github/followers/tushar-patil-1109?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
-  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tushar-patil-1109.tushar-patil-1109&left_text=Visitors%20"  />
   
 </div>
 
