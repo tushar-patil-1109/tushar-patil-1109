@@ -107,7 +107,7 @@
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=tushar-patil-1109&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false)
 
 </div>
 
@@ -115,7 +115,7 @@
 
 <div align="center">
   
-![](https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=tushar-patil-1109&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
