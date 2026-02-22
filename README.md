@@ -12,8 +12,6 @@
   <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
----
-
 ###
 
 <h1 align="left">👀 Profile Views and Followers </h1>
@@ -30,8 +28,6 @@
   
 </div>
 
----
-
 ###
 
 <h1 align="left">👩‍💻  About Me</h1>
@@ -39,8 +35,6 @@
 ###
 
 <p align="left">👋 I’m Tushar Patil from Pune, India<br><br>💼 Java Developer with 1.5 years of professional experience<br>🧠 Strong knowledge of Core Java, OOP concepts, and SQL<br>⚙️ Experienced in backend development, debugging, and code optimization<br>📊 Familiar with Data Structures & Algorithms and problem-solving techniques<br>🛠️ Hands-on experience using Git & GitHub for version control<br>📚 Currently strengthening DSA and Advanced Java concepts<br>⚡ In my free time, I solve coding problems and work on improving code quality</p>
-
----
 
 ###
 
@@ -62,8 +56,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="200" height="100" alt="instagram logo"  />
   </a>
 </div>
-
----
 
 ###
 
@@ -113,8 +105,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="100" alt="gitlab logo"  />
 </div>
 
----
-
 ###
 
 <h1 align="left">📊 My Stats :</h1>
@@ -142,8 +132,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-patil-1109&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   
 </div>
-
----
 
 ###
 
