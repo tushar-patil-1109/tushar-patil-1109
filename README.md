@@ -106,17 +106,7 @@
 ###
 
 <div align="center">
-
 ![](https://github-contributor-stats.vercel.app/api?username=tushar-patil-1109&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-patil-1109&theme=tokyonight)
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&theme=radical&hide_border=false)
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false)
-
 </div>
 
 ###
@@ -139,18 +129,3 @@
 
 ###
 
-
-
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-patil-1109&show_icons=true" />
-</picture>
