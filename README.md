@@ -150,6 +150,3 @@
 </div>
 
 ###
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tushar-patil-1109&theme=onedark)](https://github.com/tushar-patil-1109/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tushar-patil-1109&theme=gruvbox)](https://github.com/tushar-patil-1109/github-profile-trophy)
