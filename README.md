@@ -111,13 +111,15 @@
 
 ###
 
-### 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/tushar-patil-1109">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushar-patil-1109&theme=dracula" alt="Rajeev's Github Stats" />
 </a>
+
+<br/>
+
 <a href="https://github.com/tushar-patil-1109">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-patil-1109&theme=dracula" alt="Top Languages" />
 </a>
