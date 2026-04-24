@@ -135,13 +135,13 @@
   <br/><br/>
 
   <a href="https://leetcode.com/u/tushar_patil_1109/">
-    <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/tushar_patil_1109?theme=dark&font=Inter" alt="LeetCode Stats" />
   </a>
 
   <br/><br/>
 
   <a href="https://www.geeksforgeeks.org/user/tushar_patil/">
-    <img src="https://gfgstatscard.vercel.app/imrajeevnayan?theme=dracula" alt="GeeksforGeeks Stats" />
+    <img src="https://gfgstatscard.vercel.app/tushar_patil?theme=dracula" alt="GeeksforGeeks Stats" />
   </a>
 </div>
 
