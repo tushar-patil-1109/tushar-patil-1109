@@ -125,13 +125,13 @@
 
 </div>
 
-### 🏆 Coding Practice Stats
+###
 
-<div align="center">
-  <a href="https://codolio.com/profile/imrajeevnayan">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/dsaStats/dsa-stats.svg" alt="Codolio Stats" />
-  </a>
-  
+<h1 align="left">🏆 Coding Practice Stats :</h1>
+
+### 
+
+<div align="center">  
   <br/><br/>
 
   <a href="https://leetcode.com/u/tushar_patil_1109/">
