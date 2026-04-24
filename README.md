@@ -125,6 +125,28 @@
 
 </div>
 
+### 🏆 Coding Practice Stats
+
+<div align="center">
+  <a href="https://codolio.com/profile/imrajeevnayan">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/dsaStats/dsa-stats.svg" alt="Codolio Stats" />
+  </a>
+  
+  <br/><br/>
+
+  <a href="https://leetcode.com/u/tushar_patil_1109/">
+    <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" alt="LeetCode Stats" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.geeksforgeeks.org/user/tushar_patil/">
+    <img src="https://gfgstatscard.vercel.app/imrajeevnayan?theme=dracula" alt="GeeksforGeeks Stats" />
+  </a>
+</div>
+
+<br/>
+
 ###
 
 <h1 align="left">📈 Contribution Graph :</h1>
