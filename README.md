@@ -111,17 +111,22 @@
 
 ###
 
-<div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=tushar-patil-1109&theme=radical&hide_border=false)
-
-</div>
-
-###
+### 📊 GitHub Stats
 
 <div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=tushar-patil-1109&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<a href="https://github.com/tushar-patil-1109">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushar-patil-1109&theme=dracula" alt="Rajeev's Github Stats" />
+</a>
+<a href="https://github.com/tushar-patil-1109">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-patil-1109&theme=dracula" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/tushar-patil-1109">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-patil-1109&theme=dracula&hide_border=true&background=282a36" alt="Streak Stats" />
+</a>
 
 </div>
 
